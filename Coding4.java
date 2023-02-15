@@ -1,3 +1,10 @@
+/**
+ * Es el clasico juego de piedra papel o tijera con 2 
+ * jugadores a distinto tiempo de recopilacion
+ * que podria funcionar como un remoto dando la respuesta de quien gano
+ * justo despues de la desicion del jugador 2
+ */
+
 package codigo4;
 // Importacion de a Scanner
 import java.util.Scanner;
@@ -47,3 +54,4 @@ public class Codigo4 {
 }
 }
 }
+
